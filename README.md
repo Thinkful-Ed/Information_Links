@@ -5,7 +5,7 @@
 [Front End Blogs](https://github.com/pashanitw/Front-End-Developer-Blogs)
 [Front End Handbook](http://www.frontendhandbook.com/learning/self-direct-learning.html)
 
-**Recommended Reading/Watching **
+**Recommended Reading/Watching**
 [JavaScript The Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 [Importance of Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
 [More on Inheritance](http://aaditmshah.github.io/why-prototypal-inheritance-matters/)
