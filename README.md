@@ -27,6 +27,7 @@
 * [CodingGame](https://www.codingame.com/)
 * [CodeEval](https://www.codeeval.com/)
 * [CoderByte](http://coderbyte.com/)
+* [Project Euler](https://projecteuler.net)
 
 **Contributing to Open Source Projects - Multi-lingual**
 * [GitHub Open Source How to](https://guides.github.com/activities/contributing-to-open-source/)
